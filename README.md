@@ -48,4 +48,4 @@ If the plugin entry is removed from `tsconfig.json`, `tsgo` passes too.
 
 ## Related Issue
 
-TBD
+https://github.com/Effect-TS/tsgo/issues/8
