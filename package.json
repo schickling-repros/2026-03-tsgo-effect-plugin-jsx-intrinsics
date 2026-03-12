@@ -1,0 +1,17 @@
+{
+  "name": "tsgo-effect-plugin-jsx-intrinsics",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check:tsc": "tsc --build tsconfig.json --pretty false",
+    "repro": "bash ./repro.sh"
+  },
+  "dependencies": {
+    "react": "19.2.4"
+  },
+  "devDependencies": {
+    "@effect/language-service": "0.79.0",
+    "@types/react": "19.2.14",
+    "typescript": "5.9.3"
+  }
+}
